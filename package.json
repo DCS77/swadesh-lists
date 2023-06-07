@@ -1,0 +1,35 @@
+{
+  "name": "@languagevocab/swadesh-lists",
+  "version": "1.0.0",
+  "description": "Easily incorporate Swadesh vocabulary lists for each language into your project",
+  "main": "./dist/index.js",
+  "files": [
+    "dist",
+    "src"
+  ],
+  "scripts": {
+    "build": "tsc"
+  },
+  "author": "Daniel Smit",
+  "license": "ISC",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DCS77/smart-text-search.git"
+  },
+  "keywords": [
+    "swadesh",
+    "language",
+    "languages",
+    "vocabulary",
+    "vocab"
+  ],
+  "homepage": "https://github.com/DCS77/swadesh-lists",
+  "bugs": "https://github.com/DCS77/swadesh-lists/issues",
+  "publishConfig": {
+    "access": "public"
+  },
+  "engines": {
+    "node": ">=12.0.0"
+  }
+}
