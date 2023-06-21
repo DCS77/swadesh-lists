@@ -1,4 +1,4 @@
-import { WordDetails } from "../types";
+import type { WordDetails } from "../types";
 
 export const LatinList: Array<WordDetails> = [
   { index: 0, representation_1: "ego", representation_2: "ego", ipa: "ˈɛ.ɡoː" },

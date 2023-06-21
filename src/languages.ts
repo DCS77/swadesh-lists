@@ -1,4 +1,5 @@
-import { Language, WordDetails } from "./types";
+import { Language } from "./types";
+import type { WordDetails } from "./types";
 
 import { AfrikaansList } from "./languages/afrikaans";
 import { AlbanianList } from "./languages/albanian";

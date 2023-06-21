@@ -15,7 +15,7 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "https://github.com/DCS77/smart-text-search.git"
+    "url": "https://github.com/DCS77/swadesh-lists.git"
   },
   "keywords": [
     "swadesh",
@@ -24,7 +24,7 @@
     "vocabulary",
     "vocab"
   ],
-  "homepage": "https://github.com/DCS77/swadesh-lists",
+  "homepage": "https://languagevocab.com",
   "bugs": "https://github.com/DCS77/swadesh-lists/issues",
   "publishConfig": {
     "access": "public"

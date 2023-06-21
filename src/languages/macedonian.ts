@@ -1,4 +1,4 @@
-import { WordDetails } from "../types";
+import type { WordDetails } from "../types";
 
 export const MacedonianList: Array<WordDetails> = [
   { index: 0, representation_1: "јас (jas)" },

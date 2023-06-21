@@ -1,4 +1,4 @@
-import { WordDetails } from "../types";
+import type { WordDetails } from "../types";
 
 export const BurmeseList: Array<WordDetails> = [
   { index: 0, representation_1: "ငါ (nga), ကျုပ် (kyup) (informal)[1]", ipa: "/ŋà/, /tɕouʔ/" },

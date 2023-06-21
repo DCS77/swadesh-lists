@@ -1,4 +1,4 @@
-import { WordDetails } from "../types";
+import type { WordDetails } from "../types";
 
 export const PolishList: Array<WordDetails> = [
   { index: 0, representation_1: "ja", ipa: "/ja/" },

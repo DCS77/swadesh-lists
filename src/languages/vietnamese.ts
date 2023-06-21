@@ -1,4 +1,4 @@
-import { WordDetails } from "../types";
+import type { WordDetails } from "../types";
 
 export const VietnameseList: Array<WordDetails> = [
   { index: 0, representation_1: "tôi (see Vietnamese pronouns)" },

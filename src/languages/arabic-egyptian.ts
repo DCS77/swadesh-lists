@@ -1,4 +1,4 @@
-import { WordDetails } from "../types";
+import type { WordDetails } from "../types";
 
 export const ArabicEgyptianList: Array<WordDetails> = [
   { index: 1, representation_1: "انا‎", ipa: "/ˈænæ/" },

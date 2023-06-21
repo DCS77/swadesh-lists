@@ -1,4 +1,4 @@
-import { WordDetails } from "../types";
+import type { WordDetails } from "../types";
 
 export const JapaneseList: Array<WordDetails> = [
   { index: 0, representation_1: "私", representation_2: "わたし", transliteration: "watashi" },

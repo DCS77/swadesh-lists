@@ -1,4 +1,4 @@
-import { WordDetails } from "../types";
+import type { WordDetails } from "../types";
 
 export const GermanList: Array<WordDetails> = [
   { index: 0, representation_1: "ich", ipa: "/ɪç/" },

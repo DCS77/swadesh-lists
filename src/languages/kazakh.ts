@@ -1,4 +1,4 @@
-import { WordDetails } from "../types";
+import type { WordDetails } from "../types";
 
 export const KazakhList: Array<WordDetails> = [
   { index: 0, representation_1: "мен (men)", ipa: "/men/" },

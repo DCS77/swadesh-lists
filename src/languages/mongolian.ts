@@ -1,4 +1,4 @@
-import { WordDetails } from "../types";
+import type { WordDetails } from "../types";
 
 export const MongolianList: Array<WordDetails> = [
   { index: 0, representation_1: "би (bi)" },

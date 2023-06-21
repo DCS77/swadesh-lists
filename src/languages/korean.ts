@@ -1,4 +1,4 @@
-import { WordDetails } from "../types";
+import type { WordDetails } from "../types";
 
 export const KoreanList: Array<WordDetails> = [
   { index: 0, representation_1: "나, 저", ipa: "nɑ, t͡ɕ⁽ʰʌ", transliteration: "na, ce (humble)" },

@@ -1,4 +1,4 @@
-import { WordDetails } from "../types";
+import type { WordDetails } from "../types";
 
 export const ThaiList: Array<WordDetails> = [
   { index: 0, representation_1: "ฉัน, ผม, กู", transliteration: "chǎn, phǒm, kuu" },

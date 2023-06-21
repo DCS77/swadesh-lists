@@ -1,5 +1,6 @@
-import { Language, WordDetails } from "./types";
+import { Language } from "./types";
 import { LanguageLists } from "./languages";
+import type { WordDetails } from "./types";
 
 export const WORD_LIST_SIZE = 207;
 
